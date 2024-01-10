@@ -4,7 +4,7 @@ const { Configuration, OpenAIApi } = require("openai");
 // Set up the configuration with your API key
 // It's best practice to store sensitive data like API keys in environment variables
 const configuration = new Configuration({
-  apiKey: "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",
+  apiKey: "",
 });
 
 // Create an instance of the OpenAI API
